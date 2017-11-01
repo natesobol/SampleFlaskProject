@@ -41,6 +41,7 @@
     <Folder Include="SampleFlaskProject\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="CustomProfile.pubxml" />
     <Content Include="requirements.txt" />
     <Content Include="SampleFlaskProject\static\content\bootstrap.css" />
     <Content Include="SampleFlaskProject\static\content\bootstrap.min.css" />
